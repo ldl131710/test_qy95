@@ -9,7 +9,7 @@ public class Dept {
     private String loc;
     private String address;
     private String age;
-    
+
 
     public Long getDeptno() {
         return deptno;
